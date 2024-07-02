@@ -29,7 +29,7 @@
 - Multiple themes and color schemes
 
 ## Contact Info
-- address: 330 Phillip St. Waterloo N2L3W9 ON CA
+- address: Icon S2602, 330 Phillip St. Waterloo N2L3W9 ON CA
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
